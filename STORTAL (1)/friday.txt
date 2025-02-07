@@ -1,0 +1,28 @@
+8  B-10 EE      ECC-Lab BCY-1A                                                                                                                                     
+8  B-11 EE      LA      BAI-1C                                       
+8  B-12 EE      Cal     BAI-1A                                                                                                                                                                                                                                    
+8  EE Lab 10    ICT Lab BAI-1B                                                                                                                                                                                                                                                                                                                                                                      
+9  B-11 EE      Cal     BCY-1B                                      
+9  B-12 EE      LA      BAI-1A 
+9  B-10 EE      ECC-Lab BCY-1A    
+9  EE Lab 10    ICT Lab BAI-1B                                 
+A  B-12 EE      Cal     BAI-1A  
+A  B-10 EE      ECC-Lab BCY-1A    
+A  EE Lab 10    ICT Lab BAI-1B                                        
+B  B-10 EE	LA      BCY-1A                                      
+B  B-12 EE	LA      BAI-1C                                        
+C  B-10 EE	ECC     BAI-1B                                        
+C  B-11 EE	LA      BCY-1B                                      
+1  B-10 EE      LA      BAI-1B                                        
+1  B-11 EE      ECC-Lab BCY-1B                                                                                                                                    
+1  B-12 EE      ECC-Lab BAI-1A                                                                                                                                             
+1  Lab-1        PF Lab  BCY-1A  
+2  B-11 EE      ECC-Lab BCY-1B                                                                                                                                    
+2  B-12 EE      ECC-Lab BAI-1A                                                                                                                                             
+2  Lab-1        PF Lab  BCY-1A  
+3  B-11 EE      ECC-Lab BCY-1B                                                                                                                                    
+3  B-12 EE      ECC-Lab BAI-1A                                                                                                                                             
+3  Lab-1        PF Lab  BCY-1A                                                                                                                                                                                             
+
+
+

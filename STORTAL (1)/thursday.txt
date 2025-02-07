@@ -1,0 +1,40 @@
+8  B-11 EE      PF      BCY-1A                                                                               
+8  B-12 EE      PF      BCY-1B                                                                          
+8  C-17 EE      Cal     BSE-1A                                       
+8  C-18 EE      AP      BSE-1B                                                                   	
+8  Lab-1        PF Lab  BAI-1B                                                                                                                                                                                                            
+8  Lab-3        PF Lab  BAI-1C                                                                                                                                                                                             
+9  B-11 EE      Cal     BCY-1A                                       
+9  B-12 EE      Cal     BCY-1B                                        
+9  C-17 EE      PF      BSE-1A                                                                        
+9  C-18 EE      ECC     BSE-1B   
+9  Lab-1        PF Lab  BAI-1B                                                                                                                                                                                                            
+9  Lab-3        PF Lab  BAI-1C                                      	
+A  C-17 EE      Cal     BSE-1A                                        
+A  EE Lab-6     PF Lab  BAI-1A 
+A  Lab-1        PF Lab  BAI-1B                                                                                                                                                                                                            
+A  Lab-3        PF Lab  BAI-1C                                                                                                                                                                                   
+B  A-7 EE       ECC     BAI-1C                                        
+B  B-11 EE      PF      BCY-1A                                                           
+B  B-12 EE      Cal     BCY-1B                                        
+B  C-18 EE      Cal     BAI-1B
+B  EE Lab-6     PF Lab  BAI-1A                                     		
+C  A-6 EE       PF      BSE-1A                                                                        
+C  B-12 EE      Pst     BCY-1B                                      	
+C  Lab-1        AP      BSE-1B
+C  EE Lab-6     PF Lab  BAI-1A                                                          
+1  A-6 EE       ECC-Lab BSE-1A                                                                                                                                        
+1  A-7 EE       Cal     BSE-1B                                                                                                                                                      
+1  B-11 EE      LA      BCY-1A                                   
+1  B-12 EE      PF      BCY-1B                                                                          
+1  C-17 EE      ECC-Lab BAI-1C                                                                                                                                       
+1  C-18 EE      ECC     BAI-1B                                      
+2  A-7 EE       ECC     BSE-1B                                                                                                                   
+2  B-11 EE      PF      BAI-1A                                                                              
+2  C-18 EE      LA      BAI-1B
+2  A-6 EE       ECC-Lab BSE-1A   
+2  C-17 EE      ECC-Lab BAI-1C                                                                                                             
+3  B-11 EE      ECC     BAI-1A                                        
+3  B-12 EE      LA      BCY-1B    
+3  A-6 EE       ECC-Lab BSE-1A   
+3  C-17 EE      ECC-Lab BAI-1C                                   

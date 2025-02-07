@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Convex Hull Visualizer</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>
+        #canvas {
+            width: 100%;
+            height: 500px;
+            border: 1px solid black;
+            background-size: 50px 50px;
+            background-image:
+                linear-gradient(to right, grey 1px, transparent 1px),
+                linear-gradient(to bottom, grey 1px, transparent 1px);
+        }
+
+        .cell {
+            width: 8px;
+            height: 8px;
+            background-color: red;
+            position: absolute;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center my-4">Convex Hull Visualizer</h1>
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <form>
+                    <div class="form-group">
+                        <label for="algorithm">Algorithm</label>
+                        <select class="form-control" id="algorithm">
+                            <option>Brute Force</option>
+                            <option>Jarvis March</option>
+                            <option>Graham Scan</option>
+                            <option>Quick Elimination</option>
+                            <option>Divide and Conquer</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="points">Number of Points</label>
+                        <input type="number" class="form-control" id="points" min="3">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Visualize</button>
+                </form>
+            </div>
+        </div>
+        <div class="row my-4">
+            <div class="col-md-8 offset-md-2">
+                <div id="canvas">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        document.querySelector('form').addEventListener('submit', function(event) {
+            var canvas = document.querySelector('#canvas');
+            canvas.innerHTML = '';
+            event.preventDefault();
+            var n = document.querySelector('#points').value;
+            var algorithm = document.querySelector('#algorithm').value;
+            if (algorithm === 'Jarvis March') {
+                JarvisMarch(n);
+            }
+            else if(algorithm === 'Graham Scan'){
+                grahamScan(n);
+            }
+            else if(algorithm === 'Quick Elimination'){
+                //QuickElimination(n);
+                qHull(n);
+            }
+            else if(algorithm === 'Brute Force'){
+                BruteForce(n);
+            }
+            else if(algorithm === 'Divide and Conquer'){
+                generateAndDrawConvexHull(n);
+            }
+            else{
+                alert("Please select an algorithm");
+            }
+        });
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="algorithms/JarvisMarch.js"></script>
+    <script src="algorithms/GrahamScan.js"></script>
+    <script src="algorithms/QuickElimination.js"></script>
+    <script src="algorithms/BruteForce.js"></script>
+    <script src="algorithms/divideNconquer.js"></script>
+</body>
+</html>

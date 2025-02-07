@@ -1,0 +1,109 @@
+8  A-4 EE       PF      BCS-1F                                                                  
+8  A-5 EE       ECC     BAI-1A                                   
+8  A-6 EE       Cal     BAI-1B                                   
+8  A-7 EE       ECC     BCS-1E                                  
+8  A-8 EE       PF      BCS-1D                                                   
+8  B-9 EE       IRS     BCS-1G                                
+8  B-10 EE      IRS     BCS-1H                                    
+8  B-11 EE      ECC-Lab BCS-1J                                                                                                                      
+8  B-12 EE      PF      BCS-1K                                                                          
+8  C-17 EE      PF      BCS-1L                                                                 
+8  C-18 EE      Cal     BCS-1M                                
+8  C-19 EE      PF      BCS-1A                                                                 
+8  C-20 EE      PF      BCS-1B                                                             
+8  C-21 EE      IRS     BCS-1C                          	
+8  Lab-1        ICT Lab BAI-1C                                                                                                                                                                               
+8  EE Lab-9     ICT Lab BSE-1A                                                                                                                                                                                                      
+8  EE Lab 10    ICT Lab BSE-1B 
+                                                                                                                                                                                           
+9  A-5 EE       Pst     BAI-1A                              
+9  A-6 EE       PF      BAI-1B                                                       
+9  A-7 EE       PF      BCS-1E                                             
+9  A-8 EE       Cal     BCS-1D                          
+9  B-10 EE      ECC-Lab BCS-1H                                                                                                   
+9  C-17 EE      IRS     BCS-1L                          
+9  C-18 EE      Cal     BCS-1M                                   
+9  C-19 EE      AP      BCS-1A                        
+9  C-20 EE      ECC     BCS-1B                              
+9  C-21 EE      PF      BCS-1C
+9  B-11 EE      ECC-Lab BCS-1J
+9  Lab-1        ICT Lab BAI-1C                                                                                                                                                                               
+9  EE Lab-9     ICT Lab BSE-1A                                                                                                                                                                                                      
+9  EE Lab 10    ICT Lab BSE-1B 
+                                              
+A  A-5 EE       PF      BAI-1A                                                
+A  A-6 EE       Cal     BAI-1B                        	
+A  B-9 EE       PF      BCS-1G                                                
+A  C-18 EE      PF      BCS-1M                                           
+A  C-19 EE      Cal     BCS-1A                                     
+A  C-20 EE      Cal     BCS-1B                            
+A  C-21 EE      Cal     BCS-1C
+A  B-11 EE      ECC-Lab BCS-1J
+A  Lab-1        ICT Lab BAI-1C                                                                                                                                                                               
+A  EE Lab-9     ICT Lab BSE-1A                                                                                                                                                                                                      
+A  EE Lab 10    ICT Lab BSE-1B
+A  B-10 EE      ECC-Lab BCS-1H 
+                             	
+B  A-6 EE       PF      BAI-1C                                                    
+B  A-7 EE       Cal     BCS-1E                                	
+B  B-9 EE       AP      BCS-1G                                
+B  B-12 EE      PF      BCS-1K                                                     
+B  C-18 EE      PF      BSE-1B                                                    	                             
+B  EE Lab-6     PF Lab  BCS-1D 
+B  B-10 EE      ECC-Lab BCS-1H  
+                                                                                                                                                                                   
+C  A-5 EE       LA      BAI-1A                                  
+C  A-6 EE       IRS     BCS-1C                                
+C  B-11 EE      IRS     BCS-1J                                      
+C  B-12 EE      IRS     BCS-1K                                
+C  C-19 EE      Pst     BCS-1A 
+C  EE Lab-6     PF Lab  BCS-1D
+                                                    	
+1  A-4 EE       PF      BSE-1A                                                                     
+1  A-5 EE       PF      BAI-1A                                                                             
+1  A-6 EE       ECC-Lab BAI-1B                                                                                                                                                  
+1  A-7 EE       Cal     BAI-1C                                   
+1  A-8 EE       Cal     BCS-1F                                   
+1  B-10 EE      Cal     BCS-1H                                       
+1  C-17 EE      IRS     BCS-1L                                   
+1  C-18 EE      ECC-Lab BCS-1M                                                                                                                                                  
+1  C-20 EE      AP      BSE-1B                                                                     
+1  C-21 EE      ECC-Lab BCS-1A                                                                                                                                        	
+1  Lab-3        AP      BCS-1K                                                                                                                                                                                                                                                                 
+1  Lab-11       PF Lab  BCS-1B                                                                                                                                                                                                  
+1  Lab-12       PF Lab  BCS-1C                                                                                                                                                                                                   	
+1  EE Lab-9     PF Lab  BCS-1E 
+1  EE Lab-6     PF Lab  BCS-1D  
+                                                                                                                                                                                         
+2  A-4 EE       ECC     BSE-1A                                  
+2  A-5 EE       Pst     BAI-1A                                  
+2  A-7 EE       Pst     BAI-1C                                       
+2  A-8 EE       IRS     BCS-1F                                     
+2  B-9 EE       Cal     BCS-1G                                        
+2  B-10 EE      AP      BCS-1H                                     
+2  B-11 EE      PF      BCS-1J                                                                              
+2  C-17 EE      ECC     BCS-1L                                     	
+2  C-20 EE      PF      BSE-1B 
+2  Lab-11       PF Lab  BCS-1B                                                                                                                                                                                                  
+2  Lab-12       PF Lab  BCS-1C                                                                                                                                                                                                   	
+2  EE Lab-9     PF Lab  BCS-1E  
+2  A-6 EE       ECC-Lab BAI-1B
+2  C-18 EE      ECC-Lab BCS-1M 
+2  C-21 EE      ECC-Lab BCS-1A 
+                                                           
+3  A-4 EE       Pst     BSE-1A                                   
+3  A-7 EE       LA      BAI-1C                                  
+3  A-8 EE       AP      BCS-1F                                  
+3  B-9 EE       ECC     BCS-1D                                    
+3  B-11 EE      ECC     BCS-1J                                 
+3  B-12 EE      Cal     BCS-1K                                        
+3  C-17 EE      AP      BCS-1L                                   
+3  C-20 EE      Pst     BSE-1B  
+3  Lab-11       PF Lab  BCS-1B                                                                                                                                                                                                  
+3  Lab-12       PF Lab  BCS-1C                                                                                                                                                                                                   	
+3  EE Lab-9     PF Lab  BCS-1E  
+3  A-6 EE       ECC-Lab BAI-1B
+3  C-18 EE      ECC-Lab BCS-1M 
+3  C-21 EE      ECC-Lab BCS-1A                               
+	
+
